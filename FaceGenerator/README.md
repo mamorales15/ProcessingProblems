@@ -3,7 +3,7 @@ Small project to practice Gaussian distribution.
 
 Using a variety of mouths, eyes, and hairstyles, randomly creates a new face every two seconds. Also uses Gaussian distribution to determine the y-pos of some of the face parts (ex: the eyes are on average found at y=-15, but it has a standard deviation of 5).
 
-![Example gif](<blockquote class="imgur-embed-pub" lang="en" data-id="a/dhe7n"><a href="//imgur.com/dhe7n">Face Generator gif</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Example gif](http://i.imgur.com/bCbbKm7.gifv)
 
 ### Ways to improve code
 * Very crude pictures
